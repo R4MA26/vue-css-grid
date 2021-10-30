@@ -74,6 +74,7 @@ nav div a {
 nav div button {
   background-color: aqua;
   padding: 8px;
+  cursor: pointer;
 }
 
 nav div button a {
